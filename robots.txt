@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pixel-empire.github.io/pixel-wallvibe/sitemap.xml
+Sitemap: https://inity13.github.io/pixel-wallvibe/sitemap.xml
